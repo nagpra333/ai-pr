@@ -15,3 +15,6 @@ __all__ = [
     "assert_index_equal",
     "assert_series_equal",
 ]
+
+# print all assertions
+print(__all__)
